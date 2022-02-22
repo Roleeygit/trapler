@@ -31,6 +31,7 @@ public static void main(String[] args) {
        * Math.sqrt((aoldal+boldal-coldal+doldal)*(aoldal-boldal-coldal+doldal)*
        (aoldal+boldal-coldal-doldal)*(-aoldal+boldal+coldal+doldal));
        System.out.println("A trapéz területe:" + terület);
+       
 }
 }
 }
